@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.139.237.219:8081/repository/nodejsrepo/"
+    "registry": "http://3.139.237.219:8081/repository/nodejsmithuntechnologies/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
